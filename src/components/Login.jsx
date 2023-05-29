@@ -4,7 +4,7 @@ import Tombol from "./Tombol";
 export default function Login() {
   return (
     <>
-      <KotakTeks nama="text" />
+      <KotakTeks nama="email" />
       <KotakTeks nama="password" />
       <Tombol>Login</Tombol>
     </>
